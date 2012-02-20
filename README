@@ -5,7 +5,7 @@ Tecnologies: Thread, locking, RMI
 
 Details :
 
-lt communication protocols using Socket Programming and RMI for distributed systems as part of the “Distributed Operating Systems” course. The protocols
+Built communication protocols using Socket Programming and RMI for distributed systems as part of the “Distributed Operating Systems” course. The protocols
 used client-server communication as well as remote methods with the concept of a broker serving as the service repository:
 
 1. Perform distributed computation using multi-threaded programming and Barrier Synchronization
