@@ -1,0 +1,17 @@
+join.id=0
+host-name=lin114-00
+join.id=3
+host-name=lin114-01
+join.id=1
+host-name=lin114-02
+join.id=6
+host-name=lin114-03
+leave.id=1
+leave.id=0
+join.id=4
+host-name=lin114-04
+leave.id=6
+leave.id=3
+leave.id=4
+Exit;
+

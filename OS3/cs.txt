@@ -1,0 +1,56 @@
+Connection to 0
+
+[7, 0]
+
+Connection to 7
+
+[19, 7]
+
+Connection to 19
+
+[7, 0, 28, 19]
+
+Connection to 19
+
+[0, 28, 19]
+
+Connection to 0
+
+[25, 21, 19, 0]
+
+Connection to 28
+
+[7, 0, 28]
+
+Connection to 21
+
+[19, 7, 21]
+
+Connection to 25
+
+[21, 19, 25]
+
+Connection to 19
+
+[25, 21, 19]
+
+Connection to 25
+
+[19, 7, 25]
+
+Connection to 7
+
+[19, 7]
+
+Connection to 7
+
+[0, 28, 25, 7]
+
+Connection to 7
+
+[25, 21, 19, 7]
+
+Connection to 28
+
+[25, 21, 19, 28]
+

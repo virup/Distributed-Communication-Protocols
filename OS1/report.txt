@@ -1,0 +1,17 @@
+Virupaksha Kanjilal
+2328-8937
+
+This is an interesting project. It gave me a better insite into handling 
+threads and sockets likewise. Sending data from one node to another 
+proved to be the most challenging for me. As I had to encode the entire 
+message into byte array. This demanded that we include the message 
+length in the message itself. At the receiving node, we had to extract 
+the message by a decoding process. This encoding - decoding ensured that 
+the tokens and messages are send across correctly. 
+
+The project description requires that each node wait for 5 seconds 
+before sending data. This in my opinion does not guarantee a successful 
+connection. Instead, if we reorder the starting sequence of the nodes, 
+then we need not wait the extra 5 seconds.
+
+

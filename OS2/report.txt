@@ -1,0 +1,10 @@
+Virupaksha Kanjilal
+2328-8937
+
+
+This project was particularly challenging because of the real numbers involved in the matrixes.
+The numbers had to be encoded properly in the messages which are passed back and forth from the coordinating agents to the computing agents. I spent most of the coding time properly encoding the values in the messages. 
+
+Also, since the field size for the numbers in the messages are fixed, the elements of the matrixes has to be rounded off to fit into the field. This sometimes leads to loss in precision and inturn accumulates and gives results which are slighltly off. 
+
+

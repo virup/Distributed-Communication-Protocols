@@ -1,0 +1,16 @@
+Rmiregistry.port=12856
+Server=rain.cise.ufl.edu
+numberOfNodes=32
+numberOfIdentifier=6
+client1.id=0
+client1.host-name=lin114-01
+client2.id=7
+client2.host-name=lin114-02
+client3.id=19
+client3.host-name=lin114-03
+client4.id=21
+client4.host-name=lin114-04
+client5.id=25
+client5.host-name=lin114-05
+client6.id=28
+client5.host-name=lin114-06

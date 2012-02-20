@@ -1,0 +1,15 @@
+Lookup: Node=0, Key=6;
+Lookup: Node=7, Key=19;
+Lookup: Node=19, Key=5;
+Lookup: Node=19, Key=30;
+Lookup: Node=0, Key=25;
+Lookup: Node=28, Key=1;
+Lookup: Node=21, Key=10;
+Lookup: Node=25, Key=20;
+Lookup: Node=19, Key=25;
+Lookup: Node=25, Key=10;
+Lookup: Node=7, Key=11;
+Lookup: Node=7, Key=0;
+Lookup: Node=7, Key=24;
+Lookup: Node=28, Key=23;
+Exit;

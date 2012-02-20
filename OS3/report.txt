@@ -1,0 +1,10 @@
+Virupaksha Kanjilal
+2328 8937
+
+This project was challenging because the RMI registry wasn't properly starting in the linux machines. It was throwing an exception all the time. The project has been done in accordance to approach 2. There is a chord server. And there are clients which run on separate machines. The clients all bind their functions to their local rmiregistry. The search is performed recursively, from the chord server to the client, then to the next client. 
+
+The program has been written so that it automatically kills the rmiregistry upon getting the 'Exit' command from the chord server. The client then stops.
+
+
+
+
