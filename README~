@@ -5,13 +5,11 @@ Tecnologies: Thread, locking, RMI
 
 Details :
 
-lt communication protocols using Socket Programming and RMI for distributed
-systems as part of the “Distributed Operating Systems” course. The protocols
-used client-server communication as well as remote methods with the concept of
-a broker serving as the service repository
-1 Perform distributed computation using multi-threaded programming and Barrier Synchronization
-2 Implement a P2P Chord, which is a protocol to support a scalable peer-to-peer
-(P2P) lookup service for Internet applications
-3 Perform Chord protocols in a dynamic environment where nodes can join and
-leave at anytimeThis project implements a P2P chord protocol. It perform Chord protocols in a
-dynamic environment where nodes can join and leave at anytime. 
+lt communication protocols using Socket Programming and RMI for distributed systems as part of the “Distributed Operating Systems” course. The protocols
+used client-server communication as well as remote methods with the concept of a broker serving as the service repository:
+
+1. Perform distributed computation using multi-threaded programming and Barrier Synchronization
+2. Implement a P2P Chord, which is a protocol to support a scalable peer-to-peer (P2P) lookup service for Internet applications
+3 Perform Chord protocols in a dynamic environment where nodes can join and leave at anytimeThis project implements a P2P chord protocol. It perform Chord protocols in a dynamic environment where nodes can join and leave at anytime. 
+
+For details, please refer to the individual pdfs
